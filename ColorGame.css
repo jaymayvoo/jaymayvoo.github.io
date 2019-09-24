@@ -30,7 +30,7 @@ h1 {
 	background: steelblue;
 	margin:0;
 	text-transform: uppercase;
-	padding: 20px 0;
+	padding: auto 0;
 }
 
 #stripe {
