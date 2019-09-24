@@ -1,0 +1,41 @@
+.navbar{
+	font-family: Raleway;
+	/*font-weight: 400;*/
+	/*margin-left:1.66%;
+	font-size: 15px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #F1F1F1;
+	width: 30%;
+	padding-bottom: 20px;*/
+}
+
+body{
+	background: rgb(230, 237, 235);
+}
+
+/*.float{
+	float: left;
+}*/
+
+p{
+	font-size: 18px;
+	font-family: Noto Sans;
+	margin: 5% 5%;
+}
+
+#pic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	padding-bottom: 15px;
+}
+
+.dropdown-item{
+	color:white;
+}
+
+.dropdown-menu{
+	background:black;
+}
