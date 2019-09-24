@@ -73,3 +73,12 @@ button:hover {
 	display: inline-block;
 	width: 20%;
 }
+
+.dropdown-item{
+	color:white;
+	margin-left: 10px;
+}
+
+.dropdown-menu{
+	background:black;
+}
